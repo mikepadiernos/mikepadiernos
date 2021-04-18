@@ -1,11 +1,13 @@
 # Hi, I'm Michael Padiernos
 
 - I'm a Full Stack Web Developer from Lambda School that is proficient in HTML5, SASS, React, and Drupal. 
-- I'm passionate in frontend web development, UI / UX design, and Drupal site-building; 
+- I'm passionate about frontend web development, UI / UX design, and Drupal site-building; 
   <br>I hope to be an efficient and useful asset to any company I work with. 
 - I'm a big techie! I love to keep up with current trends, in technology, design, and pop-culture.
+<br>
+<hr>
 
-
+[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikepadiernos&theme=dark&show_icons=true)](https://github.com/mikepadiernos)
 
 <!--
 **mikepadiernos/mikepadiernos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
