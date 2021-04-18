@@ -11,7 +11,7 @@
 ## You can reach me @
 
 - ![website](./assets/globe-16.png)
-  [M. Padiernos](https://mike.padiernos.me)
+  [website](https://mike.padiernos.me)
 - ![mail](./assets/mailbox-16.png)
   [e-mail address](mailto:mike@padiernos.me)
 
