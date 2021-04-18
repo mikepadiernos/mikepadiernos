@@ -19,7 +19,9 @@
 
 - ![linkedin](./assets/linkedin-16.png)
   [linkedin profile](https://www.linkedin.com/in/mikepadiernos/)
-- ![mail](./assets/drupal-16.png)
+- ![gitlab](./assets/gitlab-16.png)
+  [gitlab profile](https://gitlab.com/mike.padiernos)
+- ![drupal](./assets/drupal-16.png)
   [drupal.org profile](https://www.drupal.org/u/mikepadiernos)
 
 <hr>
@@ -41,5 +43,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Icons by [Core UI](https://icons.coreui.io/)
+Mailbox & Globe Icons by [Core UI](https://icons.coreui.io/)
 
