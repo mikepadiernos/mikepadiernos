@@ -1,5 +1,7 @@
 # Hi, I'm Michael Padiernos
 
+I am a professional Full Stack Web Developer from Lambda School that is proficient in HTML5, SASS, React, and Drupal. I am passionate in frontend web development, UI / UX design, and Drupal site-building. I want to be an effective and efficient asset to any company I work with. I am a big techie and love to keep up with the current tech / design / pop-culture trends!
+
 <!--
 **mikepadiernos/mikepadiernos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
