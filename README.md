@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Icons by [Core UI](https://icons.coreui.io/)
+<!--Icons by [Core UI](https://icons.coreui.io/)-->
 
