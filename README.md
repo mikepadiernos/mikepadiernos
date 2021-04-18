@@ -6,9 +6,9 @@
 - I'm a big techie! I love to keep up with current trends, in technology, design, and pop-culture.
 
 ## You can reach me @
-![mail](./assets/mailbox-16.png) [e-mail](mailto:mike@padiernos.me)
-![linkedin](./assets/linkedin-16.png) [linkedin](https://www.linkedin.com/in/mikepadiernos/)
-![mail](./assets/drupal-16.png) [drupal.org](https://www.drupal.org/u/mikepadiernos)
+- ![mail](./assets/mailbox-16.png) [e-mail](mailto:mike@padiernos.me)
+- ![linkedin](./assets/linkedin-16.png) [linkedin](https://www.linkedin.com/in/mikepadiernos/)
+- ![mail](./assets/drupal-16.png) [drupal.org](https://www.drupal.org/u/mikepadiernos)
 <hr>
 
 [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikepadiernos&theme=dark&show_icons=true)](https://github.com/mikepadiernos)
