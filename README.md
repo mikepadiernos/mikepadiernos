@@ -1,6 +1,6 @@
-# Hi, I'm Michael Padiernos
+# Hi, I'm Mike! 
 
-- Hi there, I’m a Full Stack Web Developer from Bloom Institute of Technology, formerly known as Lambda School, who can rock HTML5, SASS, React, and Drupal like a boss.
+- I’m a Full Stack Web Developer from Bloom Institute of Technology, formerly known as Lambda School, who can rock HTML5, Stylus CSS, React, and Drupal like a boss.
 - I’m super passionate about frontend web development, UI / UX design, and Drupal site-building. I love creating beautiful and functional websites that make users happy.
 - I’m also a tech-savvy and eager learner who always stays on top of the latest trends in technology, design, and pop-culture. I hope to join a company that values innovation and growth, and where I can contribute to its success.
 
