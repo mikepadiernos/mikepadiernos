@@ -1,12 +1,8 @@
 # Hi, I'm Michael Padiernos
 
-- I'm a Full Stack Web Developer from Lambda School that is proficient
-  in HTML5, SASS, React, and Drupal.
-- I'm passionate about frontend web development, UI / UX design, and
-  Drupal site-building; <br>I hope to be an efficient and useful asset
-  to any company I work with.
-- I'm a big techie! I love to keep up with current trends, in
-  technology, design, and pop-culture.
+- Hi there, I’m a Full Stack Web Developer from Bloom Institute of Technology, formerly known as Lambda School, who can rock HTML5, SASS, React, and Drupal like a boss.
+- I’m super passionate about frontend web development, UI / UX design, and Drupal site-building. I love creating beautiful and functional websites that make users happy.
+- I’m also a tech-savvy and eager learner who always stays on top of the latest trends in technology, design, and pop-culture. I hope to join a company that values innovation and growth, and where I can contribute to its success.
 
 ## You can reach me @
 
