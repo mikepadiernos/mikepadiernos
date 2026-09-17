@@ -6,17 +6,12 @@
 
 ## You can reach me @
 
-- ![website](./assets/globe-16.png)
-  [website](https://mike.padiernos.me)
-- ![mail](./assets/mailbox-16.png)
-  [e-mail address](mailto:mike@padiernos.me)
+- [mike@padiernos.me](mailto:mike@padiernos.me)
 
 <hr>
 
 - ![linkedin](./assets/linkedin-16.png)
   [linkedin profile](https://www.linkedin.com/in/mikepadiernos/)
-- ![gitlab](./assets/gitlab-16.png)
-  [gitlab profile](https://gitlab.com/mike.padiernos)
 - ![drupal](./assets/drupal-16.png)
   [drupal.org profile](https://www.drupal.org/u/mikepadiernos)
 
@@ -38,6 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Mailbox & Globe Icons by [Core UI](https://icons.coreui.io/)
 
