@@ -15,10 +15,6 @@
 - [linkedin](https://www.linkedin.com/in/mikepadiernos/)
 - [drupal.org](https://www.drupal.org/u/mikepadiernos)
 
-<hr>
-
-[![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikepadiernos&theme=dark&show_icons=true)](https://github.com/mikepadiernos)
-
 <!--
 **mikepadiernos/mikepadiernos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
