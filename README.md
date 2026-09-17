@@ -1,8 +1,10 @@
-# Hi, I'm Mike! 
+# Hi, Mike here!
 
-- I’m a Full Stack Web Developer from Bloom Institute of Technology, formerly known as Lambda School, who can rock HTML5, Stylus CSS, React, and Drupal like a boss.
-- I’m super passionate about frontend web development, UI / UX design, and Drupal site-building. I love creating beautiful and functional websites that make users happy.
-- I’m also a tech-savvy and eager learner who always stays on top of the latest trends in technology, design, and pop-culture. I hope to join a company that values innovation and growth, and where I can contribute to its success.
+## I am ... 
+
+- a full stack web developer from bloom institute of technology, formerly known as lambda school, who can rock react, and drupal using html, css, js like a boss.
+- super passionate about frontend web development, ui / ux design, and drupal everything. I love creating beautiful and functional websites that make users happy.
+- also a tech-savvy and eager learner who always stays on top of the latest trends in technology, design, and pop-culture.
 
 ## You can reach me @
 
@@ -10,10 +12,8 @@
 
 <hr>
 
-- ![linkedin](./assets/linkedin-16.png)
-  [linkedin profile](https://www.linkedin.com/in/mikepadiernos/)
-- ![drupal](./assets/drupal-16.png)
-  [drupal.org profile](https://www.drupal.org/u/mikepadiernos)
+- [linkedin](https://www.linkedin.com/in/mikepadiernos/)
+- [drupal.org](https://www.drupal.org/u/mikepadiernos)
 
 <hr>
 
